@@ -1,4 +1,5 @@
-def welcome():
-    return 'Hello world'
+from flask import Flask
+print("Flask server has been successfully implemented")
 
-print(welcome())
+
+
